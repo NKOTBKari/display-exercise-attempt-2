@@ -1,0 +1,42 @@
+main {
+  font-size: 0;
+  margin: auto;
+  width: 800px;
+  height: 500px;
+}
+
+.inner {
+  height: 200px;
+  width: 50%;
+  border: 1px solid black;
+  display: inline-block;
+  font-size: 0;
+}
+
+.inner-one {
+  background-color: green;
+}
+
+.inner-two {
+  background-color: blue;
+}
+
+.outer {
+  height: 300px;
+  width: 33.33%;
+  border: 1px solid black;
+  display: inline-block;
+  font-size: 0;
+}
+
+    .inner-three {
+        background-color: grey;
+}
+
+.inner-four {
+  background-color: black;
+}
+
+.inner-five {
+  background-color: yellow;
+}
